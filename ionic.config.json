@@ -1,0 +1,7 @@
+{
+  "name": "kilos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
